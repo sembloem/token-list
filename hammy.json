@@ -1,0 +1,14 @@
+{
+  "name": "HAMMY",
+  "symbol": "HAMMY",
+  "decimals": 9,
+  "address": "7sZsajmJpTDYwBMvFzK9Z2mCKuwoCitRbB4nkiTaxXdp",
+  "logoURI": "https://www.otcs.nl/hammy-logo.png",
+  "tags": ["community", "solana", "safetoken"],
+  "extensions": {
+    "twitter": "https://x.com/Feed_HAMMY",
+    "coingeckoId": "",
+    "serumV3Usdc": "",
+    "serumV3Usdt": ""
+  }
+}
